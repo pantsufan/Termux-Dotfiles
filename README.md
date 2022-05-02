@@ -1,0 +1,3 @@
+- Neofetch
+- Ohmyzsh
+- Powerlevel10k
